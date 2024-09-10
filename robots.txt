@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ropenerm.github.io/sitemap.html.gz
+Sitemap: https://ropenerm.github.io/app/sitemap.html.gz
+Sitemap: https://ropenerm.github.io/assets/sitemap.html.gz
+Sitemap: https://ropenerm.github.io/css/sitemap.html.gz
+Sitemap: https://ropenerm.github.io/includes/sitemap.html.gz
+Sitemap: https://ropenerm.github.io/item/sitemap.html.gz
+Sitemap: https://ropenerm.github.io/src/sitemap.html.gz
